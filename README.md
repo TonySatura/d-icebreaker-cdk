@@ -1,14 +1,7 @@
-# Welcome to your CDK TypeScript project!
+# CDK project for d-icebreaker-ng
 
-This is a blank project for TypeScript development with CDK.
+This IaC project is used to deploy the AWS infrastructure for [DIcebreakerNg](https://github.com/TonySatura/d-icebreaker-ng)
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+## Deployment process
 
-## Useful commands
-
- * `npm run build`   compile typescript to js
- * `npm run watch`   watch for changes and compile
- * `npm run test`    perform the jest unit tests
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
+A detailed deployment manual can be found in the [related Angular project](https://github.com/TonySatura/d-icebreaker-ng/blob/master/README.md).
