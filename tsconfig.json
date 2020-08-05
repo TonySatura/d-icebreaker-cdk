@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "js.out",
+    "outDir": "cdk.out",
     "target": "ES2018",
     "module": "commonjs",
     "lib": ["es2018"],
