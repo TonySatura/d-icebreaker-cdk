@@ -1,4 +1,4 @@
-export const MASTER = "master";
+export const MASTER = "main";
 
 export enum EnvironmentStage {
   DEVELOPMENT = "dev",
